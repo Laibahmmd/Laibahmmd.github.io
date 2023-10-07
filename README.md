@@ -19,7 +19,7 @@ I'm a dedicated computer scientist with a profound enthusiasm for technology. My
 
 ### Academic Journey
 
-- Bachelor of Science in Computer Science, UET University, Graduated May 2023
+- Bachelor of Science in Computer Science, UET Peshawar, Graduated May 2023
 - Master of Science in Computer Science (In Progress), Carnegie Mellon University
 
 ### Skills & Expertise
