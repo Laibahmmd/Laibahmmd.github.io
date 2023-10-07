@@ -1,6 +1,5 @@
 #  Computer Scientist
 
-![Professional Profile Picture](profile_picture.jpg)
 
 Welcome to my portfolio! I'm Laiba Hamid, a passionate computer scientist with a strong foundation in both theory and practical application. I thrive on solving complex problems and turning innovative ideas into reality. Explore my portfolio to learn more about my background, skills, and accomplishments.
 
